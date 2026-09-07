@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/unitreerobotics/xr_teleoperate",
+  "commit": "7dc9aa1a6edbf4a9f4f887d8ab6fc449ea5135f6",
+  "files": {
+    "unitree_dex3_left.urdf": {
+      "source_path": "assets/unitree_hand/unitree_dex3_left.urdf",
+      "sha256": "569e4d8ca55b1b76e51cd41df3cd6f655c5475a3e02e908f673f999759c51bd0"
+    },
+    "unitree_dex3_right.urdf": {
+      "source_path": "assets/unitree_hand/unitree_dex3_right.urdf",
+      "sha256": "4e36e939466d386524d38079f8e2ff84d9dd4d3a7f8db6319374067970ad7075"
+    },
+    "hand_retargeting.py.txt": {
+      "source_path": "teleop/robot_control/hand_retargeting.py",
+      "sha256": "fe25e74059239ed34e610642db660e173803eae275ab3624a0219246915be056"
+    },
+    "LICENSE": {
+      "source_path": "LICENSE",
+      "sha256": "63762ccebdb836cf2bae6b1ae0de526e7499dbf45e554c790ebc45942cce3e36"
+    }
+  }
+}

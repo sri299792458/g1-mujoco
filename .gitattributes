@@ -1,0 +1,3 @@
+# Preserve the exact bytes of pinned upstream files, including line endings.
+g1_mujoco/assets/sources/** -text -whitespace
+tests/reference_data/** -text -whitespace
